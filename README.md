@@ -122,3 +122,5 @@ To reach the darknet, use *official* onion URLs. Always ensure you're using the 
 Darknet markets offer a realm for anonymous transactions. By following these security measures, using escrow, and remaining cautious, you can safely navigate this complex landscape. Always verify URLs, use encryption, and beware of scams for a secure and successful experience.
 
 Please support by adding stars to this repo.
+
+Update:  06/11/2025 10-20-37 Sprite URLs
