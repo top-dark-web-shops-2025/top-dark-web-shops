@@ -127,4 +127,6 @@ Please support by adding stars to this repo.
 
 
 
-Update: Just checked, the link is working fine now!
+
+
+Update: url is now responsive and operational
