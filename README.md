@@ -129,4 +129,6 @@ Please support by adding stars to this repo.
 
 
 
-Update: url is now responsive and operational
+
+
+Update:  21 June
